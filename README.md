@@ -92,14 +92,15 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 __English__
 
-- Cambridge FCE
+- Cambridge FCE  
  `Jan 2015`
 
 
 __German__
 
-- Gethe-Zertifikat B2
-`Mar 2016`
+- Gethe-Zertifikat B2   
+`Mar 2016`  
+
 __Greek__
 
 - Native
