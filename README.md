@@ -3,9 +3,7 @@
 # Christoforos Vardakis
 Undergraduate ECE Student.
 
-<xrist.vardakis@gmail.com> | 
-[Github](https://github.com/SeekerRook)| 
-[LinkedIn](https://www.linkedin.com/in/christoforos-vardakis/)
+<xrist.vardakis@gmail.com> | [Github](https://github.com/SeekerRook) | [LinkedIn](https://www.linkedin.com/in/christoforos-vardakis/)
 
 ## Currently
 
