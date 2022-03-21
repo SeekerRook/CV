@@ -121,7 +121,7 @@ __GGTO by Google__
 
 ## Hobbies 
 
-Music (Guittar - Traditional instruments)  
+Music (Guitar - Traditional instruments)  
 Illustration  
 Gaming  
 PC building and Hardware
