@@ -1,4 +1,3 @@
-<br>
 
 # Christoforos Vardakis
 Undergraduate ECE Student.
@@ -32,7 +31,6 @@ __Electrical and Computer Engineering, National Technical University of Athens._
 
 `2016 - 2018`
 __3rd General Highschool, Heraklion, Crete__
-
 - Highschool Diploma
 
 
@@ -65,18 +63,33 @@ __Git and Gihub workshop__
 __UX for everyone__
 - TEDx NTUA.
 
+<!--
+### Patents
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
+
+<!--
+## Occupation
+`1600`
+__Royal Mint__, London
+- Warden
+- Minted coins
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+-->
+
 
 
 ## Foreign Languages
 
 __English__
 
-- Cambridge FCE `Jan 2015`
+- Cambridge FCE | `Jan 2015`
 
 
 __German__
 
-- Gethe-Zertifikat B2  `Mar 2016`  
+- Gethe-Zertifikat B2 | `Mar 2016`  
 
 __Greek__
 
@@ -100,7 +113,4 @@ __GGTO by Google__
 
 ## Hobbies 
 
-Music (Guitar - Traditional instruments)  
-Illustration  
-Gaming  
-PC building and Hardware
+Music (Guitar - Traditional instruments) | Illustration | Gaming | PC building and Hardware
